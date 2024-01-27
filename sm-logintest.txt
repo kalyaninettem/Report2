@@ -1,0 +1,22 @@
+Playwright is an open-source Node.js library for automating web browsers. It was developed by Microsoft and provides a high-level API to interact with web pages and perform browser automation tasks. Playwright supports multiple web browsers, including Chromium, Firefox, and WebKit.
+
+Key features of Playwright include:
+
+Cross-browser Testing:
+
+Playwright allows you to write browser automation scripts that can run on different browsers. This helps ensure that your web application works consistently across various browser engines.
+Headless and Headful Modes:
+
+Playwright supports both headless (without a visible browser UI) and headful (with a visible browser UI) modes. This flexibility is useful for different testing and automation scenarios.
+Automated Testing:
+
+Playwright is often used for end-to-end testing of web applications. You can simulate user interactions, navigate through pages, and validate the behavior of your application.
+Scraping and Data Extraction:
+
+Playwright can be used for web scraping and data extraction tasks. It allows you to programmatically navigate websites, interact with elements, and extract data.
+Capture Screenshots and Record Videos:
+
+Playwright provides built-in capabilities to capture screenshots and record videos during test execution. This is valuable for analyzing test results and debugging.
+Performance Testing:
+
+Playwright can be used for performance testing by simulating real user interactions and measuring the response times of web applications.
