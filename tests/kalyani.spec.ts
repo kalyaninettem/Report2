@@ -8,6 +8,8 @@ test('my practice', async ({ page }) => {
   await page.locator('.DocSearch-Button-Placeholder').click();
   await page.waitForTimeout(5000);
   await page.locator("#docsearch-input").fill('image');
+  //added a new line on below.
+  await page.waitForTimeout(2000);
   await page.locator('#docsearch-item-2').click();
   //let pageText = await page.locator('').textContent();
   
